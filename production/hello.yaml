@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: skyhighmoonpi/linuxacademy-gitops:hellov1.1
+        image: skyhighmoonpi/linuxacademy-gitops:hellov1.2
